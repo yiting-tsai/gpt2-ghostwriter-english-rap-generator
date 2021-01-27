@@ -1,0 +1,229 @@
+Searching for songs by Emeli Sande...
+
+Changing artist name to 'Emeli Sandé'
+Song 1: "Read All About It, Pt. III"
+Song 2: "Hurts"
+Song 3: "Next to Me"
+Song 4: "My Kind of Love"
+Song 5: "Clown"
+"Bitch, Don’t Kill My Vibe (International Remix)" is not valid. Skipping.
+Song 6: "Crazy in Love"
+"Free (Remix)" is not valid. Skipping.
+Song 7: "Garden"
+Song 8: "Sweet Architect"
+Song 9: "Breathing Underwater"
+Song 10: "Selah"
+"Trouble (Remix)" is not valid. Skipping.
+Song 11: "Daddy"
+"Next To Me (Remix)" is not valid. Skipping.
+Song 12: "Babe"
+Song 13: "River"
+Song 14: "Happen"
+Song 15: "Breaking the Law"
+Song 16: "Kung Fu"
+Song 17: "Heaven"
+Song 18: "Give Me Something"
+Song 19: "I’d Rather Not"
+Song 20: "Lonely"
+"Read All About It [Nu:Tone Remix]" is not valid. Skipping.
+Song 21: "Where I Sleep"
+Song 22: "Somebody"
+"My Kind of Love (Remix)" is not valid. Skipping.
+Song 23: "Shakes"
+Song 24: "Highs & Lows"
+Song 25: "Sparrow"
+Song 26: "Tenderly"
+Song 27: "Suitcase"
+Song 28: "Every Single Little Piece"
+Song 29: "Read All About It"
+Song 30: "Right Now"
+
+Reached user-specified song limit (30).
+Done. Found 30 songs.
+Songs grabbed:30
+Searching for songs by Chrisette Michele...
+
+Song 1: "A Couple Of Forevers"
+"Let Us Live" is not valid. Skipping.
+Song 2: "Blame It On Me"
+Song 3: "Epiphany (I’m Leaving)"
+Song 4: "If I Have My Way"
+Song 5: "Love Is You"
+Song 6: "Unbreakable"
+Song 7: "All I Ever Think About"
+Song 8: "Soulmate"
+Song 9: "Like A Dream"
+Song 10: "Be OK"
+Song 11: "What You Do"
+Song 12: "To the Moon"
+Song 13: "Your Joy"
+Song 14: "Golden"
+Song 15: "Equal"
+Song 16: "You Mean That Much To Me"
+Song 17: "Ebony"
+Song 18: "A Couple of Forevers (Single)"
+Song 19: "Charades"
+Song 20: "Good Girl"
+Song 21: "Let Freedom Reign"
+Song 22: "These Stones"
+Song 23: "Diamond Letter"
+Song 24: "Aston Martin Music"
+"Passionfruit (Remix)" is not valid. Skipping.
+Song 25: "Better"
+Song 26: "Goodbye Game"
+Song 27: "I’m a Star"
+Song 28: "Notebook"
+Song 29: "Best of Me"
+Song 30: "Meant to Be"
+
+Reached user-specified song limit (30).
+Done. Found 30 songs.
+Songs grabbed:30
+Searching for songs by Bryson Tiller...
+
+Song 1: "Don’t"
+Song 2: "Exchange"
+Song 3: "Sorry Not Sorry"
+Song 4: "Right My Wrongs"
+Song 5: "Let Me Explain"
+Song 6: "Let Em’ Know"
+Song 7: "Been That Way"
+Song 8: "Just Another Interlude"
+Song 9: "Overtime"
+Song 10: "Self Righteous"
+Song 11: "Rambo"
+Song 12: "Run Me Dry"
+Song 13: "502 Come Up"
+Song 14: "For However Long"
+Song 15: "The Sequence"
+Song 16: "Rambo (Last Blood)"
+Song 17: "No Longer Friends"
+Song 18: "Open Interlude"
+Song 19: "Somethin Tells Me"
+Song 20: "Canceled"
+Song 21: "Set You Free"
+Song 22: "Self-Made"
+Song 23: "Ten Nine Fourteen"
+Song 24: "Don’t Get Too High"
+Song 25: "Set It Off"
+Song 26: "We Both Know"
+Song 27: "Finesse"
+Song 28: "Outta Time"
+Song 29: "How About Now Freestyle"
+Song 30: "You Got It"
+
+Reached user-specified song limit (30).
+Done. Found 30 songs.
+Songs grabbed:30
+Searching for songs by Sheck Wes...
+
+Song 1: "Mo Bamba"
+Song 2: "Chippi Chippi"
+"Live Sheck Wes" is not valid. Skipping.
+Song 3: "YKTS"
+Song 4: "Gmail"
+Song 5: "Mindfucker"
+Song 6: "Jiggy on the Shits"
+Song 7: "Wanted"
+Song 8: "Kyrie"
+Song 9: "WESPN"
+Song 10: "Do That"
+Song 11: "Sadio Mané (YNWA)"
+Song 12: "Vetements Socks"
+Song 13: "Never Lost"
+Song 14: "Fuck Everybody"
+Song 15: "Losing My Mind"
+Song 16: "Danimals"
+Song 17: "Burn Slow (Interlude)"
+Song 18: "#BEENBALLIN"
+".WAV RADIO EP 10 Tracklist" is not valid. Skipping.
+Song 19: "Sheck Jesus"
+Song 20: "PAPER"
+Song 21: "Death to Draco"
+Song 22: "LeBron James"
+Song 23: "Rich One Day"
+Song 24: "Niggas Ain’t Close"
+Song 25: "Rich White Bitches"
+Song 26: "FUCK ALL ADULTS"
+Song 27: "I’m Not Kanye West"
+Song 28: "Real Nigga (70 Bars)"
+Song 29: "Steve Jobs Freestyle"
+Song 30: "Believe That Shit"
+
+Reached user-specified song limit (30).
+Done. Found 30 songs.
+Songs grabbed:30
+Searching for songs by Mariah Carey...
+
+Song 1: "All I Want for Christmas Is You"
+Song 2: "We Belong Together"
+Song 3: "#Beautiful"
+Song 4: "Obsessed"
+Song 5: "Fantasy"
+Song 6: "Always Be My Baby"
+Song 7: "Hero"
+Song 8: "GTFO"
+"Fantasy (Bad Boy Remix)" is not valid. Skipping.
+Song 9: "With You"
+Song 10: "One Sweet Day"
+Song 11: "Touch My Body"
+Song 12: "Heartbreaker"
+Song 13: "Loverboy"
+Song 14: "Shake It Off"
+Song 15: "Honey"
+Song 16: "Breakdown"
+Song 17: "Emotions"
+Song 18: "My All"
+Song 19: "Without You"
+Song 20: "Triumphant (Get ’Em)"
+Song 21: "A No No"
+Song 22: "Infinity"
+Song 23: "Butterfly"
+Song 24: "Don’t Forget About Us"
+Song 25: "I Don’t"
+"Up Out My Face (Remix)" is not valid. Skipping.
+Song 26: "O Holy Night"
+Song 27: "It’s Like That"
+Song 28: "The Distance"
+Song 29: "Fly Like a Bird"
+Song 30: "Caution"
+
+Reached user-specified song limit (30).
+Done. Found 30 songs.
+Songs grabbed:30
+Searching for songs by 6ix9ine...
+
+Song 1: "FEFE"
+Song 2: "GOOBA"
+Song 3: "GUMMO"
+Song 4: "BILLY"
+Song 5: "KOODA"
+Song 6: "TATI"
+Song 7: "KEKE"f
+Song 9: "GOTTI"
+Song 10: "MAMA"
+Song 11: "BEBE"
+Song 12: "KIKA"
+Song 13: "WAKA"
+Song 14: "TIC TOC"
+Song 15: "KANGA"
+Song 16: "RONDO"
+Song 17: "MALA"
+Song 18: "FEEFA"
+Song 19: "PUNANI"
+Song 20: "Blood Walk"
+Song 21: "YAYA"
+Song 22: "93"
+Song 23: "69"
+Song 24: "TUTU"
+Song 25: "DUMMY"
+Song 26: "LOCKED UP, PT. 2"
+"GUMMO (Remix)" is not valid. Skipping.
+Song 27: "YOKAI"
+Song 28: "CHOCOLATÉ"
+Song 29: "ScumLife"
+Song 30: "Zeta Zero 0.5"
+
+Reached user-specified song limit (30).
+Done. Found 30 songs.
+Songs grabbed:30
